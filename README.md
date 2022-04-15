@@ -1,6 +1,6 @@
 # Pawster - Crowd Sourced Pet Kenneling
 
-https://pawster.herokuapp.com/
+## Live link:  https://pawster.herokuapp.com/
 
 * **Purpose of the app:** 
 
@@ -61,7 +61,7 @@ https://pawster.herokuapp.com/
 ## Screenshots
 <img src="./src/img/banners/pawgif.gif">
    
-## Live link: 
+
 
 
 
